@@ -13,3 +13,4 @@ Stage: build
     pip install scikit-learn
     pip install seaborn
     pip install joblib                                                                                                                                               
+    pip install hoggormplot
