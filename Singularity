@@ -14,3 +14,4 @@ Stage: build
     pip install seaborn
     pip install joblib                                                                                                                                               
     pip install hoggormplot
+    pip install tsfresh
